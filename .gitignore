@@ -2,3 +2,4 @@ venv
 venv.back
 *.pyc
 __pycache__/*
+.aider*
